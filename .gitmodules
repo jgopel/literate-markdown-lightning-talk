@@ -1,0 +1,3 @@
+[submodule "vendor/lmt"]
+	path = vendor/lmt
+	url = https://github.com/driusan/lmt.git
