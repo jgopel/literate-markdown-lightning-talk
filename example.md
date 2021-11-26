@@ -25,7 +25,7 @@ The declaration is the implementation of the function. In a cpp file, provide
 the implementation of the function with the same signature as in the header.
 
 ```cpp foo.cpp
-#include "foo.hpp"
+#include "bar.hpp"
 
 #include <string>
 
